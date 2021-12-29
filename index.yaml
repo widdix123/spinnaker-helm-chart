@@ -3,12 +3,12 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-29T20:50:05.43156+05:30"
+    created: "2021-12-29T20:53:29.079083+05:30"
     description: A Helm chart for Kubernetes
     digest: 9cf161d6603867cda349d6554278af6d39d3dfc042ca7e98cd22d45277985559
     name: helm-chart-test
     type: application
     urls:
-    - https://widdix123/spinnaker-helm-chart/helm-chart-test-0.1.0.tgz
+    - https://widdix123.github.io/spinnaker-helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-29T20:50:05.429725+05:30"
+generated: "2021-12-29T20:53:29.078502+05:30"
